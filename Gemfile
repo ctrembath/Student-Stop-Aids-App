@@ -35,7 +35,7 @@ gem 'twitter'
 gem 'twfy'
 gem 'bower-rails'
 gem 'angular-rails-templates', group: :development
-gem 'rails-assets-angular'
+gem 'rails-assets-angular', :source => 'https://rubygems.org/'
 # , group: :development, :source => 'https://rails-assets.org'
 
 

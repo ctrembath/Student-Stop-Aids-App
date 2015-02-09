@@ -2,7 +2,11 @@
 [![Code Climate](https://codeclimate.com/github/chandley/stop-aids/badges/gpa.svg)](https://codeclimate.com/github/chandley/stop-aids)
 
 # Would you Rather?
-![IMAGE](app/assets/images/HomePage.png)
+![full](https://cloud.githubusercontent.com/assets/8418748/6108925/e4705168-b06e-11e4-91f0-942de023bf3b.png)
+
+![candidates](https://cloud.githubusercontent.com/assets/8418748/6108988/9bb9efb4-b06f-11e4-9d62-f1fbd0b26df6.png)
+
+
 ## Synopsis
 
 Team Stop Aids, working with the charity Students Stop Aids are proud to present <i>Would You Rather?<i>

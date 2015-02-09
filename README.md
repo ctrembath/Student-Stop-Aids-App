@@ -27,7 +27,7 @@ Our team loved the idea of working with a charity client and creating something 
 ## How to install
 
 1. Clone the Repo:
-  * Run `$ git clone git@github.com:chandley/stop-aids.git`
+  * Run `$ git clone git@github.com:ctrembath/stop-aids.git`
   * Then `$ bundle install`
   * And Finally `$ rake db:create db:migrate`
 
